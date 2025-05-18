@@ -1,0 +1,45 @@
+.title{
+    font-size: 60px;
+    text-align: center;
+    color:rgb(23, 32, 82);
+    font-family: 'Gill Sans';
+     
+   
+}
+
+.página {
+background-color: rgb(151, 235, 221);
+
+}
+
+.fonte {
+    text-align: justify;
+    font-size: 35px;
+
+}
+
+.itens {
+    line-height: 1.5;
+
+}
+
+.imagem1{
+    Border: 5px solid rgb(68, 3, 41);
+    column-width: auto;
+    border-radius: 10px;
+  
+}
+.imagem2{
+    Border: 5px solid rgb(202, 41, 76);
+    column-width: auto;
+    border-radius: 10px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+a:hover{
+    color: blue;
+    background-color: red;
+    font-weight:bolder
+    
+}
